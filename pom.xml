@@ -10,6 +10,7 @@
         <module>HeadFirstJava</module>
         <module>EffectiveJava2</module>
         <module>HeadFirstDesignPatterns</module>
+        <module>ThinkingInJava</module>
     </modules>
     <packaging>pom</packaging>
 

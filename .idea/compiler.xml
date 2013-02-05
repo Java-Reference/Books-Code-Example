@@ -26,6 +26,7 @@
         <module name="HeadFirstDesignPatterns" />
         <module name="HeadFirstJava" />
         <module name="JavaHowToProgram" />
+        <module name="ThinkingInJava" />
       </profile>
     </annotationProcessing>
   </component>
